@@ -1,7 +1,7 @@
 ## dio-desafio-first
 
-#Voltando a estudar ;)
+Voltando a estudar ;)
 
 
 ##links úteis
-#(www.markdownguide.org/basic-syntax/)
+(www.markdownguide.org/basic-syntax/)
